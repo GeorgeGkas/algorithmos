@@ -28,6 +28,7 @@
 ## Αλγόριθμοι Γραφημάτων
 
 - [Bellman-Ford](./Graphs/Bellman-Ford/README.md)
+- [Prim](./Graphs/Prim/README.md)
 
 ## Έχεις απορίες, θέλεις να βοηθήσεις;
 
