@@ -30,6 +30,7 @@
 - [Bellman-Ford](./Graphs/Bellman-Ford/README.md)
 - [Prim](./Graphs/Prim/README.md)
 - [Dijkstra](./Graphs/Dijkstra/README.md)
+- [Floyd-Warshall](./Graphs/Floyd-Warshall/README.md)
 
 ## Έχεις απορίες, θέλεις να βοηθήσεις;
 
